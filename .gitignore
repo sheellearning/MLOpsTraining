@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 models/model.pkl
 models/prediction_output.csv
+mlruns/
+mlflow.db
+artifacts/
+*.png
+*.txt
